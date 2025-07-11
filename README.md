@@ -1,4 +1,4 @@
-# 🧠 Intelligent Complaint Analysis for Financial Services
+#  Intelligent Complaint Analysis for Financial Services
 
 A Retrieval-Augmented Generation (RAG)-powered chatbot that helps internal teams at **CrediTrust Financial** transform raw customer complaints into real-time, actionable insights.
 
